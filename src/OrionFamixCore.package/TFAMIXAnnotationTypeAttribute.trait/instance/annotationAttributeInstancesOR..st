@@ -1,3 +1,0 @@
-accessing
-annotationAttributeInstancesOR: aVersion
-	^ self privateAnnotationAttributeInstances versionIn: aVersion

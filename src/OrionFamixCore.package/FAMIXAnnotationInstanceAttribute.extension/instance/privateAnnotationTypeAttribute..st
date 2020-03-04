@@ -1,3 +1,0 @@
-*OrionFamixCore-Class
-privateAnnotationTypeAttribute: aAnnotationTypeAttribute
-	 annotationTypeAttribute := aAnnotationTypeAttribute

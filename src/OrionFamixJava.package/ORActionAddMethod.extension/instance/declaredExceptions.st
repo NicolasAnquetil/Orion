@@ -1,3 +1,0 @@
-*OrionFamixJava
-declaredExceptions
-	^ declaredExceptions

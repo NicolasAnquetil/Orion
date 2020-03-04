@@ -1,3 +1,0 @@
-*OrionFamixJava-Class
-getFamixClass
-	^ FAMIXClass

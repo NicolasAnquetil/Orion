@@ -1,3 +1,0 @@
-*Orion-Merge
-isAnnotationInstance
-	^ true

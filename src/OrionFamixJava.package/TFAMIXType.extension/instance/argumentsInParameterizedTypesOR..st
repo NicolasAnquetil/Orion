@@ -1,3 +1,0 @@
-*OrionFamixJava
-argumentsInParameterizedTypesOR: aVersion
-	^ self privateArgumentsInParameterizedTypes versionIn: aVersion

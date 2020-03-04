@@ -1,4 +1,0 @@
-running
-createActionsForORClasses: aCollectionOfClasses
-	^ ORActionGenerator new
-		createActionsForACollectionOfORClasses: aCollectionOfClasses

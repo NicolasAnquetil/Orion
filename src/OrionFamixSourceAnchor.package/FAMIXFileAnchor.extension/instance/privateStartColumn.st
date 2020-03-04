@@ -1,3 +1,0 @@
-*OrionFamixSourceAnchor-Class
-privateStartColumn
-	^ startColumn

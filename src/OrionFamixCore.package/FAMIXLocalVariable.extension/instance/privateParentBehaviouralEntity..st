@@ -1,3 +1,0 @@
-*OrionFamixCore-Class
-privateParentBehaviouralEntity: aBehaviouralEntity
-	 parentBehaviouralEntity := aBehaviouralEntity

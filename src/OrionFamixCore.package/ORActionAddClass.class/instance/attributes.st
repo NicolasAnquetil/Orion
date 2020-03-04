@@ -1,3 +1,0 @@
-accessing - generated
-attributes
-	^ attributes

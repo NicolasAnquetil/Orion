@@ -1,3 +1,0 @@
-*OrionFamixSourceAnchor-Class
-privateAllFiles
-	^ allFiles

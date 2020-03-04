@@ -1,7 +1,0 @@
-{
-	"commentStamp" : "<historical>",
-	"traitcomposition" : "TFAMIXSourceLanguage",
-	"classtraitcomposition" : "TFAMIXSourceLanguage classTrait",
-	"category" : "OrionFamixJava-Trait",
-	"name" : "TFAMIXJavaSourceLanguage"
-}

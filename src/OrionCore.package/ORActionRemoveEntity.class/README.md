@@ -1,1 +1,0 @@
-A ORActionRemoveEntity is an Orion abstract class for remove entity actions

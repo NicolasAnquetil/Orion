@@ -1,3 +1,0 @@
-*OrionFamixCore-Class
-privateAnnotationAttributeInstances: aAnnotationInstanceAttribute
-	 annotationAttributeInstances := aAnnotationInstanceAttribute

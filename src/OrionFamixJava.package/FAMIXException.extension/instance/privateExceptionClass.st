@@ -1,3 +1,0 @@
-*OrionFamixJava-Class
-privateExceptionClass
-	^ exceptionClass

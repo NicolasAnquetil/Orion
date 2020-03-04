@@ -1,4 +1,0 @@
-accessing
-flushGroups 
-	 
-	queryCache initialize

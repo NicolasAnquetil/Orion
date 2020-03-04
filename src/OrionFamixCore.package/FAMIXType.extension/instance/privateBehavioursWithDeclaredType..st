@@ -1,3 +1,0 @@
-*OrionFamixCore-Class
-privateBehavioursWithDeclaredType: aBehaviouralEntity
-	 behavioursWithDeclaredType := aBehaviouralEntity

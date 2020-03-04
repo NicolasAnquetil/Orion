@@ -1,3 +1,0 @@
-accessing
-orionID
-	^ self mooseID

@@ -1,3 +1,0 @@
-*OrionCore-model
-isOrionEntity
-	^ false

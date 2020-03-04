@@ -1,3 +1,0 @@
-accessing
-behavioursWithDeclaredType
-	^ self behavioursWithDeclaredTypeOR: self currentContext

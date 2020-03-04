@@ -1,1 +1,0 @@
-NB: tests discarded should be corrected and reinserted

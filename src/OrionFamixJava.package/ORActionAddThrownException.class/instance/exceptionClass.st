@@ -1,3 +1,0 @@
-accessing - generated
-exceptionClass
-	^ exceptionClass

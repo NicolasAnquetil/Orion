@@ -1,3 +1,0 @@
-diff
-prepareToDiff
-	self setAsCurrentContextForAllContainedEntities

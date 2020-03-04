@@ -1,7 +1,0 @@
-{
-	"commentStamp" : "<historical>",
-	"traitcomposition" : "TFAMIXException",
-	"classtraitcomposition" : "TFAMIXException classTrait",
-	"category" : "OrionFamixJava-Trait",
-	"name" : "TFAMIXDeclaredException"
-}

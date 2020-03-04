@@ -1,3 +1,0 @@
-deprecated
-createAddAnnotationTypeAttribute: aFamixAddChange
-	self createAddAttribute: aFamixAddChange

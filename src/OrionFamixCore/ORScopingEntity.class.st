@@ -1,0 +1,15 @@
+"
+A ORScopingEntity is a generated class useful to Orion. All the methods are also generated from the instance variables of the corresponding famix class.
+"
+Class {
+	#name : #ORScopingEntity,
+	#superclass : #FAMIXScopingEntity,
+	#traits : 'TFAMIXScopingEntity',
+	#classTraits : 'TFAMIXScopingEntity classTrait',
+	#category : 'OrionFamixCore-Class'
+}
+
+{ #category : #'as yet unclassified' }
+ORScopingEntity class >> isOrionClass [
+	^ true
+]

@@ -1,3 +1,0 @@
-*OrionFamixJava-Class
-privateParameterizableClass
-	^ parameterizableClass

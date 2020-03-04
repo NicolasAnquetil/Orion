@@ -1,3 +1,0 @@
-accessing
-isManual
-	^ parentAction isNil

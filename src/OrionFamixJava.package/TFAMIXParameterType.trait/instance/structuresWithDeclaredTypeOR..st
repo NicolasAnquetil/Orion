@@ -1,3 +1,0 @@
-accessing
-structuresWithDeclaredTypeOR: aVersion
-	^ self privateStructuresWithDeclaredType versionIn: aVersion

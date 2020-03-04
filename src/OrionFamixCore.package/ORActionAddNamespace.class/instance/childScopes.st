@@ -1,3 +1,0 @@
-accessing - generated
-childScopes
-	^ childScopes

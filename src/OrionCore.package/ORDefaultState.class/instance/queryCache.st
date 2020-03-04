@@ -1,3 +1,0 @@
-accessing
-queryCache
-	^self entityCache

@@ -1,3 +1,0 @@
-*OrionCore-model
-orionCopy
-	^self

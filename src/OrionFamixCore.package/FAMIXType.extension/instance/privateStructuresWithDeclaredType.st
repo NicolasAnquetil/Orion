@@ -1,3 +1,0 @@
-*OrionFamixCore-Class
-privateStructuresWithDeclaredType
-	^ structuresWithDeclaredType

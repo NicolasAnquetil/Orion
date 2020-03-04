@@ -1,7 +1,0 @@
-{
-	"commentStamp" : "<historical>",
-	"traitcomposition" : "TFAMIXContainerEntity",
-	"classtraitcomposition" : "TFAMIXContainerEntity classTrait",
-	"category" : "OrionFamixCore-Trait",
-	"name" : "TFAMIXScopingEntity"
-}

@@ -1,3 +1,0 @@
-*OrionCore
-isModel
-	^ true

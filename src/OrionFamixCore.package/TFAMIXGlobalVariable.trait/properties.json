@@ -1,7 +1,0 @@
-{
-	"commentStamp" : "<historical>",
-	"traitcomposition" : "TFAMIXStructuralEntity",
-	"classtraitcomposition" : "TFAMIXStructuralEntity classTrait",
-	"category" : "OrionFamixCore-Trait",
-	"name" : "TFAMIXGlobalVariable"
-}

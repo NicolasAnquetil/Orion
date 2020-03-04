@@ -1,3 +1,0 @@
-creating method
-getExtendedPropertiesOf: aFamixClass
-	^ self selectExtendedPropertiesAmong: aFamixClass mooseDescription attributes
