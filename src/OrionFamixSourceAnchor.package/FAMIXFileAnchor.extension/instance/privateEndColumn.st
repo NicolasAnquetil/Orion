@@ -1,0 +1,3 @@
+*OrionFamixSourceAnchor-Class
+privateEndColumn
+	^ endColumn

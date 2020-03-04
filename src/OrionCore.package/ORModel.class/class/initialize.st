@@ -1,0 +1,3 @@
+class initialization
+initialize
+	self defaultState: MooseDevelopmentState

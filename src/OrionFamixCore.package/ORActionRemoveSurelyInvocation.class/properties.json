@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORActionRemoveLink",
+	"category" : "OrionFamixCore-Action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"to"
+	],
+	"name" : "ORActionRemoveSurelyInvocation",
+	"type" : "normal"
+}

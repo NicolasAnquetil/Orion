@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "OrionBrowser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selectedVersion",
+		"actionDict",
+		"browser",
+		"entityInSummary",
+		"entityInBuffer"
+	],
+	"name" : "OrionBrowser",
+	"type" : "normal"
+}

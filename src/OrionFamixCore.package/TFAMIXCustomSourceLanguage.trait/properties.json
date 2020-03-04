@@ -1,0 +1,7 @@
+{
+	"commentStamp" : "<historical>",
+	"traitcomposition" : "TFAMIXSourceLanguage",
+	"classtraitcomposition" : "TFAMIXSourceLanguage classTrait",
+	"category" : "OrionFamixCore-Trait",
+	"name" : "TFAMIXCustomSourceLanguage"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ORActionAddMethod",
+	"category" : "OrionFamixBodyHash",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bodyHash"
+	],
+	"name" : "ORActionAddMethodWithBodyHash",
+	"type" : "normal"
+}

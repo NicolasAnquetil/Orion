@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MooseModel",
+	"category" : "OrionCore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parentModel",
+		"childrenModel",
+		"changes",
+		"system",
+		"cache"
+	],
+	"name" : "ORModel",
+	"type" : "normal"
+}

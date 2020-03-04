@@ -1,0 +1,18 @@
+{
+	"classtraitcomposition" : "TMooseSmalltalkModelImporterForTests classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"modelMerger",
+		"model2",
+		"model1",
+		"diff"
+	],
+	"name" : "OrionMergeAbstractTest",
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"traitcomposition" : "TMooseSmalltalkModelImporterForTests",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Orion-Merge-Tests"
+}

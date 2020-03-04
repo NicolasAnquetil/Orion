@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ORTest",
+	"category" : "OrionTest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORModelTest",
+	"type" : "normal"
+}

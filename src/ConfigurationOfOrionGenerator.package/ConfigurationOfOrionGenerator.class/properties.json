@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "ConfigurationOfOrionGenerator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"project"
+	],
+	"name" : "ConfigurationOfOrionGenerator",
+	"type" : "normal"
+}

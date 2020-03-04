@@ -1,0 +1,7 @@
+{
+	"commentStamp" : "<historical>",
+	"traitcomposition" : "TFAMIXNamedEntity",
+	"classtraitcomposition" : "TFAMIXNamedEntity classTrait",
+	"category" : "OrionFamixCore-Trait",
+	"name" : "TFAMIXContainerEntity"
+}

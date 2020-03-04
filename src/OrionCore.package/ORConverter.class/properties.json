@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OrionCore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"association",
+		"modelShouldHaveOnlyOrionClasses"
+	],
+	"instvars" : [ ],
+	"name" : "ORConverter",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+*OrionCore
+versionIn: anOrionModel
+	^self

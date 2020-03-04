@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORActionMove",
+	"category" : "OrionFamixJava-Action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parentEnum",
+		"parentPackage"
+	],
+	"name" : "ORActionMoveEnumValue",
+	"type" : "normal"
+}

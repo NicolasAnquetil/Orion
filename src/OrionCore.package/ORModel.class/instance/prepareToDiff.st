@@ -1,0 +1,3 @@
+diff
+prepareToDiff
+	self setAsCurrentContextForAllContainedEntities

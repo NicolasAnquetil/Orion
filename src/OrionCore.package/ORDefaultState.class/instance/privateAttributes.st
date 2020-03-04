@@ -1,0 +1,4 @@
+accessing
+privateAttributes
+
+	^ attributes

@@ -1,0 +1,3 @@
+adding
+addStubNamespace: aFamixStubNamespace
+	^ self orionVersionedModel addStubNamespace: aFamixStubNamespace

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORActionAddEntity",
+	"category" : "OrionFamixJava-Action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"definingMethod",
+		"exceptionClass"
+	],
+	"name" : "ORActionAddCaughtException",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+flushAttributes
+	 
+	attributes initialize

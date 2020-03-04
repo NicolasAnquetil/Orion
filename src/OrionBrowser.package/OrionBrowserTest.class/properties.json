@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ORTest",
+	"category" : "OrionBrowser-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OrionBrowserTest",
+	"type" : "normal"
+}

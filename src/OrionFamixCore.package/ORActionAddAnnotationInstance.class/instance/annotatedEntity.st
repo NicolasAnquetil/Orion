@@ -1,0 +1,3 @@
+accessing - generated
+annotatedEntity
+	^ annotatedEntity

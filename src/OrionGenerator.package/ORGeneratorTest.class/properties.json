@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "OrionGenerator-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aGenerator"
+	],
+	"name" : "ORGeneratorTest",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXInheritance classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORInheritance",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXInheritance",
+	"traitcomposition" : "TFAMIXInheritance",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

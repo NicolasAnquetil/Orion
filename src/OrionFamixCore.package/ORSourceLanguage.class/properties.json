@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXSourceLanguage classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORSourceLanguage",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXSourceLanguage",
+	"traitcomposition" : "TFAMIXSourceLanguage",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

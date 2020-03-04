@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "FamixDiffAbstractPostOperator",
+	"category" : "Orion-Merge",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"orionVersionedModel",
+		"actions"
+	],
+	"name" : "OrionMerge",
+	"type" : "normal"
+}

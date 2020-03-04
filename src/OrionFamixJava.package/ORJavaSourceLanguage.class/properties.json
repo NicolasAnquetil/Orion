@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXJavaSourceLanguage classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORJavaSourceLanguage",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXJavaSourceLanguage",
+	"traitcomposition" : "TFAMIXJavaSourceLanguage",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixJava-Class"
+}

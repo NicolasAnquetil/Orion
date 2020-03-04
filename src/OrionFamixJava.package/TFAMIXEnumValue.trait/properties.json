@@ -1,0 +1,7 @@
+{
+	"commentStamp" : "<historical>",
+	"traitcomposition" : "TFAMIXStructuralEntity",
+	"classtraitcomposition" : "TFAMIXStructuralEntity classTrait",
+	"category" : "OrionFamixJava-Trait",
+	"name" : "TFAMIXEnumValue"
+}

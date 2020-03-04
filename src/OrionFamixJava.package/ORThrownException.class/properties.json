@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXThrownException classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORThrownException",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXThrownException",
+	"traitcomposition" : "TFAMIXThrownException",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixJava-Class"
+}

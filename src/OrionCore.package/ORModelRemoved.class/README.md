@@ -1,0 +1,1 @@
+An ORModelRemoved is an announcement specifying that an element has been removed

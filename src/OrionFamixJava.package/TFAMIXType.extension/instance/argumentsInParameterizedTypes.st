@@ -1,0 +1,3 @@
+*OrionFamixJava
+argumentsInParameterizedTypes
+	^ self argumentsInParameterizedTypesOR: self currentContext

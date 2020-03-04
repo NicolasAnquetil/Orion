@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "FAMIXEntity",
+	"category" : "OrionGenerator-TestModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"kind",
+		"test"
+	],
+	"name" : "FAMIXTestClass",
+	"type" : "normal"
+}

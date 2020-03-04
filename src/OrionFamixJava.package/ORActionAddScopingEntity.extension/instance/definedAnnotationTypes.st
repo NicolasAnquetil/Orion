@@ -1,0 +1,3 @@
+*OrionFamixJava
+definedAnnotationTypes
+	^ definedAnnotationTypes

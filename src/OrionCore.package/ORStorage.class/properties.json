@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MooseGroupRuntimeStorage",
+	"category" : "OrionCore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model"
+	],
+	"name" : "ORStorage",
+	"type" : "variable"
+}

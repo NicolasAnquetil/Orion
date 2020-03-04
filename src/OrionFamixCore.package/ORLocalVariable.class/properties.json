@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXLocalVariable classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORLocalVariable",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXLocalVariable",
+	"traitcomposition" : "TFAMIXLocalVariable",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

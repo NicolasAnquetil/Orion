@@ -1,0 +1,3 @@
+accessing
+typeOfGeneratedObject
+	self subclassResponsibility

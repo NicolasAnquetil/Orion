@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORActionAddLink",
+	"category" : "OrionFamixCore-Action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"comments",
+		"declaredSourceLanguage",
+		"previous",
+		"next",
+		"sourceAnchor"
+	],
+	"name" : "ORActionAddAssociation",
+	"type" : "normal"
+}

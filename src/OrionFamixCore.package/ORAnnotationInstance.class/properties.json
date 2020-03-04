@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXAnnotationInstance classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORAnnotationInstance",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXAnnotationInstance",
+	"traitcomposition" : "TFAMIXAnnotationInstance",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

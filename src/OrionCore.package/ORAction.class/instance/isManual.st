@@ -1,0 +1,3 @@
+accessing
+isManual
+	^ parentAction isNil

@@ -1,0 +1,3 @@
+*OrionGenerator
+isOrionClass
+	^ false

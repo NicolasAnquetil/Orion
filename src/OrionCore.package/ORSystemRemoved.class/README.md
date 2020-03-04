@@ -1,0 +1,1 @@
+An ORSystemRemoved is an announcement specifying that an model has been removed

@@ -1,0 +1,4 @@
+*OrionFamixCore-Class
+privateChildNamedEntities
+
+	^ childNamedEntities

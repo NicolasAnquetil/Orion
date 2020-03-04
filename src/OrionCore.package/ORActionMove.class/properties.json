@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORAction",
+	"category" : "OrionCore-action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"newContainer"
+	],
+	"name" : "ORActionMove",
+	"type" : "normal"
+}

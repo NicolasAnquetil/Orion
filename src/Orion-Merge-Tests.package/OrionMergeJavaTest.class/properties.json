@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TOrionMergeJavaTest classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"modelMerger"
+	],
+	"name" : "OrionMergeJavaTest",
+	"commentStamp" : "VincentBlondeau 3/1/2017 18:06",
+	"super" : "TestCase",
+	"traitcomposition" : "TOrionMergeJavaTest - {#testAddReferenceToStubClass. #testAddStubClass. #testAddStubClassInExistingStubNS. #testAddStubClassInNonExistingStubNS}",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Orion-Merge-Tests"
+}

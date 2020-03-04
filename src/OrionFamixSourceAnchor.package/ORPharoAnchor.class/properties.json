@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXPharoAnchor classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORPharoAnchor",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXPharoAnchor",
+	"traitcomposition" : "TFAMIXPharoAnchor",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixSourceAnchor-Class"
+}

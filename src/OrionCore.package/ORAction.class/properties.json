@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "OrionCore-action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"entity",
+		"orionModel",
+		"cost",
+		"parentAction",
+		"childrenActions"
+	],
+	"name" : "ORAction",
+	"type" : "normal"
+}

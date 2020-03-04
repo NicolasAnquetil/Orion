@@ -1,0 +1,3 @@
+*OrionFamixSourceAnchor-Class
+privateSource
+	^ source

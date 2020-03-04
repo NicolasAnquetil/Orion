@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXTypeAlias classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORTypeAlias",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXTypeAlias",
+	"traitcomposition" : "TFAMIXTypeAlias",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

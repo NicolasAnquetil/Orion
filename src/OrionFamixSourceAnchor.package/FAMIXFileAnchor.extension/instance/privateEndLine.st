@@ -1,0 +1,3 @@
+*OrionFamixSourceAnchor-Class
+privateEndLine
+	^ endLine

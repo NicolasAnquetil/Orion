@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXEntity classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OREntity",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXEntity",
+	"traitcomposition" : "TFAMIXEntity",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

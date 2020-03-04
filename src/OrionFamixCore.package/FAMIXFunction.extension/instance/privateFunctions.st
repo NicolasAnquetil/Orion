@@ -1,0 +1,3 @@
+*OrionFamixCore-Class
+privateFunctions
+	^ functions

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Orion-Merge-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"modelMerger",
+		"model2"
+	],
+	"name" : "OrionMergeIntegrationTestWithFullModelsOrion2FX",
+	"type" : "normal"
+}

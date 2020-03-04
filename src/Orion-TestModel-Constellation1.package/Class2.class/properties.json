@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MooseEntity",
+	"category" : "Orion-TestModel-Constellation1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Class2",
+	"type" : "normal"
+}

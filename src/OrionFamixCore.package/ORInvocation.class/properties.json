@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXInvocation classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORInvocation",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXInvocation",
+	"traitcomposition" : "TFAMIXInvocation",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

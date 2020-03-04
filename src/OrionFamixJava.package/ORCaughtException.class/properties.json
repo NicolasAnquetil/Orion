@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXCaughtException classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORCaughtException",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXCaughtException",
+	"traitcomposition" : "TFAMIXCaughtException",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixJava-Class"
+}

@@ -1,0 +1,3 @@
+*OrionFamixCore-Class
+privateParentAnnotationInstance: aAnnotationInstance
+	 parentAnnotationInstance := aAnnotationInstance

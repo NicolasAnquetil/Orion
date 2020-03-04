@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORActionAddEntity",
+	"category" : "OrionFamixCore-Action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"comments",
+		"name",
+		"modifiers",
+		"annotationInstances",
+		"declaredSourceLanguage",
+		"isStub",
+		"parentPackage",
+		"sourceAnchor",
+		"receivingInvocations"
+	],
+	"name" : "ORActionAddLeafEntity",
+	"type" : "normal"
+}

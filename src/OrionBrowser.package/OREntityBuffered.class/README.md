@@ -1,0 +1,1 @@
+An OREntityBuffered corresponds to the announcement relative to buffered entity.

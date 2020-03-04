@@ -1,0 +1,3 @@
+*OrionFamixCore-Class
+privateStructuresWithDeclaredType: aStructuralEntity
+	 structuresWithDeclaredType := aStructuralEntity

@@ -1,0 +1,27 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORActionAddEntity",
+	"category" : "OrionFamixCore-Action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dereferencedInvocations",
+		"declaredType",
+		"comments",
+		"name",
+		"modifiers",
+		"annotationInstances",
+		"incomingAccesses",
+		"declaredSourceLanguage",
+		"hasClassScope",
+		"parentType",
+		"isStub",
+		"parentPackage",
+		"annotationAttributeInstances",
+		"sourceAnchor",
+		"receivingInvocations"
+	],
+	"name" : "ORActionAddAnnotationTypeAttribute",
+	"type" : "normal"
+}

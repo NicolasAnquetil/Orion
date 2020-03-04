@@ -1,0 +1,3 @@
+accessing
+childrenModel
+	^ childrenModel

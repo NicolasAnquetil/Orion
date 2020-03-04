@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXFileAnchor classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORFileAnchor",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXFileAnchor",
+	"traitcomposition" : "TFAMIXFileAnchor",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixSourceAnchor-Class"
+}

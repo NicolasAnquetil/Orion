@@ -1,0 +1,3 @@
+accessing
+annotationAttributeInstances
+	^ self annotationAttributeInstancesOR: self currentContext

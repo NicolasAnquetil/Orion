@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Announcement",
+	"category" : "OrionCore-announcement",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"entity"
+	],
+	"name" : "ORAnnouncement",
+	"type" : "normal"
+}

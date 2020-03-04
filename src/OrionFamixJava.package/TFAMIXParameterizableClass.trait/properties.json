@@ -1,0 +1,7 @@
+{
+	"commentStamp" : "<historical>",
+	"traitcomposition" : "TFAMIXClass",
+	"classtraitcomposition" : "TFAMIXClass classTrait",
+	"category" : "OrionFamixJava-Trait",
+	"name" : "TFAMIXParameterizableClass"
+}

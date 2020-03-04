@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXUnknownVariable classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORUnknownVariable",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXUnknownVariable",
+	"traitcomposition" : "TFAMIXUnknownVariable",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

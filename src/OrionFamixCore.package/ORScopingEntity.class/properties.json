@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXScopingEntity classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORScopingEntity",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXScopingEntity",
+	"traitcomposition" : "TFAMIXScopingEntity",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

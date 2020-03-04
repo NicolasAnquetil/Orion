@@ -1,0 +1,3 @@
+accessing
+structuresWithDeclaredType
+	^ self structuresWithDeclaredTypeOR: self currentContext

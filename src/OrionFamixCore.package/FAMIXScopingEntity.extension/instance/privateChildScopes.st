@@ -1,0 +1,3 @@
+*OrionFamixCore-Class
+privateChildScopes
+	^ childScopes

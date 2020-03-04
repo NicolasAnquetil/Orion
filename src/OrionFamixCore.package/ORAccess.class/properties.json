@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXAccess classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORAccess",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXAccess",
+	"traitcomposition" : "TFAMIXAccess",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

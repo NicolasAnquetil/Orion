@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ORActionMove",
+	"category" : "OrionFamixCore-Action",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parentScope",
+		"parentPackage"
+	],
+	"name" : "ORActionMoveNamespace",
+	"type" : "normal"
+}

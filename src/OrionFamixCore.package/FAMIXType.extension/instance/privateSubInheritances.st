@@ -1,0 +1,3 @@
+*OrionFamixCore-Class
+privateSubInheritances
+	^ subInheritances

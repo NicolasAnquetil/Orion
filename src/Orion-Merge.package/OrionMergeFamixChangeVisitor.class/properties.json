@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "FamixChangeVisitor",
+	"category" : "Orion-Merge",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"famixAddVisitor",
+		"orionVersionedModel"
+	],
+	"name" : "OrionMergeFamixChangeVisitor",
+	"type" : "normal"
+}

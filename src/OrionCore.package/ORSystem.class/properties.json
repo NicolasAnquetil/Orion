@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OrionCore",
+	"classinstvars" : [
+		"rootSystem"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"announcer"
+	],
+	"instvars" : [
+		"sourceModel",
+		"name",
+		"announcer",
+		"orionModels"
+	],
+	"name" : "ORSystem",
+	"type" : "normal"
+}

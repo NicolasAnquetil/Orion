@@ -1,0 +1,3 @@
+*OrionFamixSourceAnchor-Class
+privateEndPos
+	^ endPos

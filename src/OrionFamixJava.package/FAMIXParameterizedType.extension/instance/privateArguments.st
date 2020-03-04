@@ -1,0 +1,3 @@
+*OrionFamixJava-Class
+privateArguments
+	^ arguments

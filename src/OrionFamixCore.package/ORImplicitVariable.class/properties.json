@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TFAMIXImplicitVariable classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORImplicitVariable",
+	"commentStamp" : "<historical>",
+	"super" : "FAMIXImplicitVariable",
+	"traitcomposition" : "TFAMIXImplicitVariable",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "OrionFamixCore-Class"
+}

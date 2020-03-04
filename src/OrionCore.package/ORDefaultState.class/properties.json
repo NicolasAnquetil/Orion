@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MooseDevelopmentState",
+	"category" : "OrionCore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ORDefaultState",
+	"type" : "normal"
+}
