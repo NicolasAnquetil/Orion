@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'model'
 	],
-	#category : 'OrionTest'
+	#category : #OrionTest
 }
 
 { #category : #accessing }
@@ -16,6 +16,7 @@ ORTest >> model [
 			importer importingContext mergeClassAndMetaclass.
 			importer candidateClass: CandidateListOperator.
 			importer importerClass: SmalltalkImporter.
+			importer factory: SmalltalkCompatibilityMetamodelFactory.
 			importer
 				model: mod;
 				addFromPackagesNamed: #(#'Orion-TestModel-Constellation2' 'Orion-TestModel-Constellation1');
@@ -38,6 +39,7 @@ ORTest >> modelNetwork [
 	mod name: 'Network'.
 	importer := MoosePharoImporterTask new.
 	importer importingContext mergeClassAndMetaclass.
+	importer factory: SmalltalkCompatibilityMetamodelFactory.
 	importer runCandidateOperator.
 	importer model: mod; addFromPackagesNamed: (MooseScripts packageNamesFor: 'Network*') ; runWithProgress .
 		

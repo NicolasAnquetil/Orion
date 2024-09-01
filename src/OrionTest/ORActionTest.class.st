@@ -4,11 +4,12 @@ Class {
 	#instVars : [
 		'orionModel'
 	],
-	#category : 'OrionTest'
+	#category : #OrionTest
 }
 
 { #category : #'testing OrionModel' }
 ORActionTest >> setUp [
+
 	orionModel := (ORModel withParent: self model) name: #orionModel.
 ]
 
